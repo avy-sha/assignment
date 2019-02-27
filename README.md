@@ -1,6 +1,6 @@
-# jiitmagicpincampusdriveassignment
-JIIT MagicPin Campus Drive Assignment
- Problem Statement:
+MagicPin Assignment
+Hosted link: http://magicpin-assignment.s3-website.ap-south-1.amazonaws.com
+Problem Statement:
  
 Assignment for Application Developer Applicants :
 You are writing authentication module for your first website. In order to ensure your
